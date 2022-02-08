@@ -48,6 +48,8 @@
         android:text="Ввести информацию о работе"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
         tools:layout_editor_absoluteX="26dp"
         tools:layout_editor_absoluteY="293dp"
         tools:ignore="MissingConstraints" />
